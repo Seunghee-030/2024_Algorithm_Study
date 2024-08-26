@@ -24,5 +24,8 @@
     <ClCompile Include="BJ1_9996.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="BJ1_2559.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
